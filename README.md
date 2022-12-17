@@ -11,12 +11,6 @@ Cloned forestessentialsindia.com website using HTML, CSS and JavaScript.
 
 
 
-- 
-### **Project Video Link:**
-
-
-
-
 
 
 - 
